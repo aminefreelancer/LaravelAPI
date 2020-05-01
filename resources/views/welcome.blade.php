@@ -18,9 +18,16 @@
     <body>
         <div id="app">
             <navbar></navbar>
-            
-                <articles></articles>
-            
+            <articles></articles>
+            <hr>
+            <footer class="text-muted text-center text-small">
+                <p class="mb-1">&copy; 2020 - Created by <a href="https://github.com/aminefreelancer/">Me</a></p>
+                <ul class="list-inline">
+                <li class="list-inline-item"><a href="https://github.com/aminefreelancer/" target="_blank">Github</a></li>
+                <li class="list-inline-item"><a href="https://www.linkedin.com/in/akachamohamedamine" target="_blank">Linkedin</a></li>
+                <li class="list-inline-item"><a href="mailto:akachamohamedamine@gmail.com">Gmail</a></li>
+                </ul>
+            </footer>
         </div>
         <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
         <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
